@@ -1,0 +1,1527 @@
+"description","from_road","to_road","length_in_meters","delay_in_seconds","Year","Month (number)","Day of month","Hour","Minute","rua_name","dupl_from","dupl_to"
+"slow traffic","Rua do Caires","N101",910,56,2018,7,24,18,0,"Nao tem",0,0
+"stationary traffic","Avenida Central","Praça Alexandre Herculano / Avenida General Norton de Matos",220,142,2018,7,24,18,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1510,131,2018,7,24,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,170,2018,7,24,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vicente","Avenida Padre Júlio Fragata",920,282,2018,7,25,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","N101","Avenida Padre Júlio Fragata",310,49,2018,7,25,9,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","Avenida Central","Avenida General Norton de Matos / Rua de São Vicente",250,120,2018,7,25,11,0,"Avenida Central",0,0
+"stationary traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1360,298,2018,7,25,15,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",660,59,2018,7,25,16,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,554,2018,7,25,16,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",420,59,2018,7,25,16,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",470,31,2018,7,25,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",240,194,2018,7,25,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",180,137,2018,7,25,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,7,26,11,0,"Avenida Central",0,0
+"queuing traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",710,109,2018,7,26,18,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",520,33,2018,8,1,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",180,295,2018,8,1,18,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",350,19,2018,8,1,19,0,"Avenida João Paulo II",0,0
+"slow traffic","Rua das Palhotas","Avenida Padre Júlio Fragata",430,25,2018,8,2,17,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1010,47,2018,8,2,18,0,"Avenida João Paulo II",0,0
+"queuing traffic","Rua do Carregal","Avenida Padre Júlio Fragata",670,139,2018,8,3,14,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida António Macedo / Avenida do Doutor Artur Soares","Avenida Padre Júlio Fragata",1010,122,2018,8,3,14,0,"Avenida Padre Júlio Fragata",0,1
+"slow traffic","Rua do Caires","Rua Feliciano Ramos (N101)",610,53,2018,8,3,17,0,"Nao tem",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",450,20,2018,8,3,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida da Imaculada Conceição (N14) / Avenida da Liberdade (N309)","Avenida João Paulo II",260,211,2018,8,4,8,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Central","Avenida General Norton de Matos / Rua de São Vicente",250,171,2018,8,4,10,0,"Avenida Central",0,0
+"stationary traffic","N103","Avenida João Paulo II",280,322,2018,8,4,11,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida João Paulo II","N14",350,182,2018,8,4,16,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,209,2018,8,6,17,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Rua do Caires","N101",820,60,2018,8,6,17,0,"Nao tem",0,0
+"slow traffic","Rua do Caires","N101",1410,58,2018,8,6,18,0,"Nao tem",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1550,110,2018,8,6,19,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",320,200,2018,8,7,16,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1210,128,2018,8,7,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,266,2018,8,7,17,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Rua do Caires","Avenida Padre Júlio Fragata",1250,116,2018,8,7,18,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Rua do Caires","N101",1090,101,2018,8,7,19,0,"Nao tem",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1310,101,2018,8,7,19,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,139,2018,8,8,16,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1470,146,2018,8,8,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",230,250,2018,8,8,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,209,2018,8,8,17,0,"Avenida Padre Júlio Fragata",1,1
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,209,2018,8,8,18,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Rua do Caires","Avenida Padre Júlio Fragata",1220,84,2018,8,8,18,0,"Avenida Padre Júlio Fragata",0,1
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1420,175,2018,8,8,18,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1550,189,2018,8,8,19,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,8,9,15,0,"Avenida Central",0,0
+"queuing traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",260,38,2018,8,9,17,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1120,65,2018,8,9,17,0,"Avenida João Paulo II",1,1
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,139,2018,8,9,18,0,"Avenida Central",0,0
+"queuing traffic","Rua do Caires","N101",800,90,2018,8,9,18,0,"Nao tem",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1200,94,2018,8,9,19,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Beato Miguel de Carvalho",500,367,2018,8,10,10,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida João Paulo II","Avenida da Imaculada Conceição (N14) / Avenida da Liberdade (N309)",510,129,2018,8,10,10,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Beato Miguel de Carvalho",500,817,2018,8,10,11,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Praça Alexandre Herculano / Avenida General Norton de Matos",220,103,2018,8,10,11,0,"Avenida Central",0,0
+"stationary traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Beato Miguel de Carvalho",500,367,2018,8,10,12,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Beato Miguel de Carvalho",400,221,2018,8,10,13,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Beato Miguel de Carvalho",270,191,2018,8,10,14,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Beato Miguel de Carvalho",500,367,2018,8,10,15,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",190,131,2018,8,10,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida João Paulo II",260,129,2018,8,10,16,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",260,420,2018,8,10,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua do Caires","Rua Feliciano Ramos (N101)",1080,334,2018,8,10,16,0,"Nao tem",0,0
+"queuing traffic","N101","Avenida João Paulo II",250,45,2018,8,10,16,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Central","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",480,377,2018,8,10,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Beato Miguel de Carvalho",500,517,2018,8,10,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Beato Miguel de Carvalho",500,517,2018,8,10,17,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida João Paulo II","Avenida da Imaculada Conceição (N14) / Avenida da Liberdade (N309)",700,141,2018,8,10,17,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1210,86,2018,8,10,17,0,"Avenida João Paulo II",1,0
+"stationary traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Beato Miguel de Carvalho",500,517,2018,8,10,18,0,"Avenida da Liberdade",0,0
+"slow traffic","Rua do Caires","Avenida Padre Júlio Fragata",1270,88,2018,8,10,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",440,154,2018,8,10,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida João Paulo II","Rua dos Bombeiros Voluntários",1370,394,2018,8,10,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua de Cima","Rua Costa Gomes",460,127,2018,8,10,18,0,"Rua Costa Gomes",0,0
+"stationary traffic","Rua Alferes Alfredo Ferreira","Avenida Central",330,261,2018,8,10,18,0,"Avenida Central",0,0
+"slow traffic","Rua do Caires","Avenida Padre Júlio Fragata",1650,164,2018,8,10,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Beato Miguel de Carvalho",500,517,2018,8,10,19,0,"Avenida da Liberdade",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1010,65,2018,8,10,19,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida João Paulo II","Rua dos Bombeiros Voluntários",1180,182,2018,8,10,19,0,"Avenida João Paulo II",1,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,8,10,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,288,2018,8,13,11,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",350,39,2018,8,13,14,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,143,2018,8,13,15,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1560,155,2018,8,13,15,0,"Avenida João Paulo II",0,0
+"slow traffic","N101","Avenida João Paulo II",690,68,2018,8,13,15,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",880,52,2018,8,13,16,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,139,2018,8,13,17,0,"Avenida Central",0,0
+"queuing traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1720,245,2018,8,13,17,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida General Norton de Matos","Avenida Padre Júlio Fragata",800,63,2018,8,13,18,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1550,220,2018,8,13,19,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida da Imaculada Conceição (N14)","Avenida da Liberdade",180,140,2018,8,14,12,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,139,2018,8,14,15,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",450,26,2018,8,14,17,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Cónego Luciano Afonso dos Santos (N101) / Rua Feliciano Ramos (N101)",1390,71,2018,8,14,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,8,16,11,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",520,30,2018,8,16,15,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",240,122,2018,8,16,16,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,139,2018,8,16,17,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1830,195,2018,8,16,18,0,"Avenida João Paulo II",0,0
+"slow traffic","Rua do Caires","Avenida Padre Júlio Fragata",1130,99,2018,8,16,18,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Rua do Caires","Avenida Padre Júlio Fragata",1330,103,2018,8,17,18,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Caminho de Lamas","Avenida Padre Júlio Fragata",670,139,2018,8,17,18,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",240,122,2018,8,17,18,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,266,2018,8,17,18,0,"Avenida Padre Júlio Fragata",0,1
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1480,137,2018,8,17,19,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,111,2018,8,18,10,0,"Avenida Central",0,0
+"queuing traffic","Rua do Caires","N101",1090,162,2018,8,21,19,0,"Nao tem",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",700,42,2018,8,23,18,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",820,70,2018,8,23,19,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Central","Praça Alexandre Herculano / Avenida General Norton de Matos",220,103,2018,8,28,10,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,8,28,16,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",630,28,2018,8,28,17,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1080,167,2018,8,31,15,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",330,54,2018,8,31,16,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,209,2018,8,31,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1750,349,2018,8,31,19,0,"Avenida João Paulo II",0,0
+"queuing traffic","Rua Feliciano Ramos (N101)","Avenida Padre Júlio Fragata",110,12,2018,8,31,19,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Rua do Caires","Rua António Gonçalves",80,15,2018,9,1,20,0,"Nao tem",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",460,264,2018,9,1,22,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,139,2018,9,3,16,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",540,47,2018,9,3,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua Costa Gomes","Rua 5 de Outubro",240,151,2018,9,3,19,0,"Rua Costa Gomes",0,0
+"queuing traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1100,169,2018,9,4,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",420,476,2018,9,4,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,143,2018,9,4,18,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1220,107,2018,9,4,18,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",420,40,2018,9,4,18,0,"Avenida João Paulo II",1,1
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",750,40,2018,9,5,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,143,2018,9,5,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,143,2018,9,5,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Bernardo Sequeira / Rua Cândido de Oliveira","Avenida da Liberdade",300,115,2018,9,6,14,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,9,6,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton de Matos / Rua de São Vicente",250,165,2018,9,6,17,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",460,25,2018,9,6,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",310,231,2018,9,6,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida General Norton de Matos","Avenida João Paulo II",2240,420,2018,9,6,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Caminho de Lamas","Avenida Padre Júlio Fragata",630,171,2018,9,6,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,170,2018,9,6,18,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",180,139,2018,9,6,18,0,"Avenida Padre Júlio Fragata",1,1
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",920,51,2018,9,7,8,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","São Vicente",560,336,2018,9,7,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,9,7,11,0,"Avenida Central",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",270,272,2018,9,7,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",280,208,2018,9,7,16,0,"Avenida da Liberdade",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1460,126,2018,9,7,17,0,"Avenida João Paulo II",0,0
+"slow traffic","Rua do Caires","Rua António Gonçalves",200,21,2018,9,7,17,0,"Nao tem",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,288,2018,9,7,17,0,"Avenida Central",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,257,2018,9,7,18,0,"Rua Costa Gomes",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,143,2018,9,7,18,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1550,143,2018,9,7,19,0,"Avenida João Paulo II",0,0
+"slow traffic","Rua do Caires","Avenida Padre Júlio Fragata",1070,94,2018,9,7,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1350,894,2018,9,9,16,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida Padre Júlio Fragata","São Vítor",640,138,2018,9,10,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","São Vicente",460,362,2018,9,10,8,0,"Avenida Padre Júlio Fragata",1,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",630,28,2018,9,10,8,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua da Estrada Nova / Rua da Universidade","Rua Nova de Santa Cruz",420,338,2018,9,10,8,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",250,128,2018,9,10,9,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,139,2018,9,10,16,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1270,97,2018,9,10,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,266,2018,9,10,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",360,235,2018,9,10,18,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1060,119,2018,9,10,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",230,250,2018,9,10,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vicente","Avenida Padre Júlio Fragata",920,328,2018,9,11,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Largo de Monte de Arcos",200,154,2018,9,11,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,192,2018,9,11,9,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida Central","Avenida General Norton de Matos / Rua de São Vicente",250,120,2018,9,11,11,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,9,11,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida da Imaculada Conceição (N14)","Avenida da Liberdade",180,140,2018,9,11,17,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",170,161,2018,9,11,18,0,"Avenida da Liberdade",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1750,162,2018,9,11,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,143,2018,9,11,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua da Estrada Nova / Rua da Universidade","Rua Nova de Santa Cruz",420,338,2018,9,12,8,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,149,2018,9,12,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",260,147,2018,9,12,8,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Largo de Monte de Arcos",200,118,2018,9,12,8,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",460,204,2018,9,12,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,9,12,11,0,"Avenida Central",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",270,272,2018,9,12,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,170,2018,9,12,17,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",930,47,2018,9,12,17,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida General Norton de Matos","Avenida Padre Júlio Fragata",760,56,2018,9,12,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,122,2018,9,12,18,0,"Avenida Padre Júlio Fragata",0,1
+"queuing traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",690,146,2018,9,13,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","São Vicente",170,126,2018,9,13,8,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",480,161,2018,9,13,17,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",500,33,2018,9,13,17,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1750,199,2018,9,13,18,0,"Avenida João Paulo II",0,0
+"slow traffic","Rua das Palhotas","Avenida Padre Júlio Fragata",220,12,2018,9,13,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,288,2018,9,13,19,0,"Avenida Central",0,0
+"queuing traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",270,48,2018,9,13,20,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",690,215,2018,9,14,8,0,"Rua Costa Gomes",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",680,32,2018,9,14,8,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,288,2018,9,14,11,0,"Avenida Central",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",230,176,2018,9,14,15,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,288,2018,9,14,15,0,"Avenida Central",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",500,217,2018,9,14,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,288,2018,9,14,16,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",480,161,2018,9,14,17,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",830,53,2018,9,14,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",460,259,2018,9,14,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,170,2018,9,14,17,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",350,191,2018,9,14,17,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",220,151,2018,9,14,18,0,"Avenida da Liberdade",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",870,99,2018,9,14,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,170,2018,9,14,18,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1270,111,2018,9,14,19,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",300,152,2018,9,17,7,0,"Rua Nova de Santa Cruz",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",790,67,2018,9,17,8,0,"Avenida João Paulo II",0,0
+"stationary traffic","Largo do Monte de Arcos","Avenida Padre Júlio Fragata",320,257,2018,9,17,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",350,229,2018,9,17,8,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","Rua da Estrada Nova / Rua da Universidade","Rua Nova de Santa Cruz",480,806,2018,9,17,8,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",350,199,2018,9,17,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",280,215,2018,9,17,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",520,225,2018,9,17,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",220,217,2018,9,17,17,0,"Avenida da Liberdade",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",600,30,2018,9,17,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",350,158,2018,9,17,17,0,"Avenida da Liberdade",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1830,209,2018,9,17,18,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida General Norton de Matos","Avenida Padre Júlio Fragata",810,75,2018,9,17,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,209,2018,9,17,18,0,"Avenida Padre Júlio Fragata",0,1
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",170,161,2018,9,17,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Praça Alexandre Herculano / Avenida General Norton de Matos",220,142,2018,9,17,18,0,"Avenida Central",0,0
+"queuing traffic","Avenida Padre Júlio Fragata","São Vítor",600,129,2018,9,18,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua da Estrada Nova / Rua da Universidade","Rua Nova de Santa Cruz",420,462,2018,9,18,8,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","São Vicente",320,191,2018,9,18,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",250,203,2018,9,18,13,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",380,58,2018,9,18,15,0,"Avenida João Paulo II",0,0
+"slow traffic","N101","Avenida João Paulo II",380,39,2018,9,18,15,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Central","Praça Alexandre Herculano / Avenida General Norton de Matos",220,142,2018,9,18,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",350,261,2018,9,18,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","São Vicente",320,125,2018,9,18,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",220,217,2018,9,18,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,209,2018,9,18,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua da Estrada Nova / Rua da Universidade","Rua Nova de Santa Cruz",460,369,2018,9,18,19,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","São Vicente","Avenida Padre Júlio Fragata",660,516,2018,9,19,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",760,390,2018,9,19,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","São Vicente",240,256,2018,9,19,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",250,203,2018,9,21,13,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",400,173,2018,9,21,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",230,118,2018,9,21,17,0,"Rua Nova de Santa Cruz",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",940,63,2018,9,21,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",350,292,2018,9,21,17,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,9,21,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,9,21,18,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",2090,226,2018,9,21,18,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",170,161,2018,9,21,18,0,"Avenida da Liberdade",0,0
+"queuing traffic","Rua do Caires","Rua Feliciano Ramos (N101)",280,46,2018,9,21,18,0,"Nao tem",0,0
+"slow traffic","Avenida General Norton de Matos","Avenida Padre Júlio Fragata",750,46,2018,9,21,18,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",860,75,2018,9,21,19,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",680,51,2018,9,23,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",760,276,2018,9,24,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","São Vicente","Avenida Padre Júlio Fragata",560,339,2018,9,24,8,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida Padre Júlio Fragata","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",160,9,2018,9,24,8,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Rua Nova de Santa Cruz","Avenida Dom João II",690,145,2018,9,24,8,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,9,24,15,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,170,2018,9,24,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida da Liberdade","Avenida João XXI (N103) / Rua Martins Sarmento",420,302,2018,9,24,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",610,246,2018,9,24,17,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1920,148,2018,9,24,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,288,2018,9,24,17,0,"Avenida Central",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",250,158,2018,9,24,17,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",420,476,2018,9,24,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Nova de Santa Cruz","Avenida João Paulo II",350,211,2018,9,24,18,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",270,191,2018,9,24,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",180,190,2018,9,24,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,9,24,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,209,2018,9,24,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,9,24,19,0,"Avenida Central",0,0
+"stationary traffic","Rua de Tourido / Rua da Nossa Senhora das Graças","Rua Costa Gomes",430,257,2018,9,24,19,0,"Rua Costa Gomes",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1580,167,2018,9,24,19,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",280,310,2018,9,24,19,0,"Rua Nova de Santa Cruz",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1060,66,2018,9,25,8,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,257,2018,9,25,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",300,155,2018,9,25,8,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",330,149,2018,9,25,9,0,"Avenida da Liberdade",0,0
+"slow traffic","Caminho de Lamas","Avenida Padre Júlio Fragata",670,90,2018,9,25,12,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",280,226,2018,9,25,13,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,9,25,15,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",810,65,2018,9,25,17,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",740,39,2018,9,25,17,0,"Avenida João Paulo II",1,1
+"stationary traffic","Rua da Lameira / Rua Manuel Fernandes Franqueira","Rua Nova de Santa Cruz",420,215,2018,9,25,17,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1540,206,2018,9,25,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",350,292,2018,9,25,18,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",680,26,2018,9,26,8,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","São Vítor",600,271,2018,9,26,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Largo do Monte de Arcos","Avenida Padre Júlio Fragata",330,116,2018,9,26,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,221,2018,9,26,8,0,"Rua Costa Gomes",0,0
+"closed","Rua Costa Gomes","Cm1327 (N201)",147,0,2018,9,26,10,0,"Rua Costa Gomes",0,0
+"closed","Cm1327 (N201)","Rua Costa Gomes",147,0,2018,9,26,10,0,"Rua Costa Gomes",0,0
+"closed","Rua Costa Gomes","Cm1327 (N201)",147,0,2018,9,26,11,0,"Rua Costa Gomes",0,0
+"closed","Cm1327 (N201)","Rua Costa Gomes",147,0,2018,9,26,11,0,"Rua Costa Gomes",0,0
+"closed","Rua Costa Gomes","Cm1327 (N201)",147,0,2018,9,26,12,0,"Rua Costa Gomes",0,0
+"closed","Cm1327 (N201)","Rua Costa Gomes",147,0,2018,9,26,12,0,"Rua Costa Gomes",0,0
+"closed","Rua Costa Gomes","Cm1327 (N201)",147,0,2018,9,26,13,0,"Rua Costa Gomes",0,0
+"closed","Cm1327 (N201)","Rua Costa Gomes",147,0,2018,9,26,13,0,"Rua Costa Gomes",0,0
+"closed","Rua Costa Gomes","Cm1327 (N201)",147,0,2018,9,26,14,0,"Rua Costa Gomes",0,0
+"closed","Cm1327 (N201)","Rua Costa Gomes",147,0,2018,9,26,14,0,"Rua Costa Gomes",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",580,31,2018,9,26,17,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1750,162,2018,9,26,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","São Vítor",600,159,2018,9,27,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,221,2018,9,27,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",300,242,2018,9,27,13,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",400,221,2018,9,27,16,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,139,2018,9,27,17,0,"Avenida Central",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",270,191,2018,9,27,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,209,2018,9,27,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,288,2018,9,27,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",260,147,2018,9,27,18,0,"Avenida da Liberdade",0,0
+"slow traffic","N101","Avenida João Paulo II",520,48,2018,9,27,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",320,113,2018,9,27,19,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",380,140,2018,9,28,8,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",790,283,2018,9,28,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",270,218,2018,9,28,12,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida da Imaculada Conceição (N14)","Avenida da Liberdade",410,196,2018,9,28,14,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1100,200,2018,9,28,16,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",360,235,2018,9,28,17,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",990,72,2018,9,28,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",360,228,2018,9,28,17,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",170,161,2018,9,28,18,0,"Avenida da Liberdade",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1290,76,2018,9,28,19,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,148,2018,9,29,11,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1010,74,2018,9,30,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,257,2018,10,1,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida João Paulo II",260,129,2018,10,1,8,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua da Lameira / Rua Manuel Fernandes Franqueira","Rua Nova de Santa Cruz",480,523,2018,10,1,8,0,"Rua Nova de Santa Cruz",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",680,34,2018,10,1,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,10,1,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",280,126,2018,10,1,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua da Estrada Nova / Rua da Universidade","Rua Nova de Santa Cruz",440,484,2018,10,1,17,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",220,217,2018,10,1,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Praça Alexandre Herculano / Avenida General Norton de Matos",220,142,2018,10,1,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,122,2018,10,1,18,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Rua do Caires","N101",1190,65,2018,10,1,18,0,"Nao tem",0,0
+"stationary traffic","Rua da Estrada Nova / Rua da Universidade","Rua Nova de Santa Cruz",410,207,2018,10,1,19,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Largo de Monte de Arcos",180,138,2018,10,2,8,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",630,36,2018,10,2,8,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,143,2018,10,2,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Rua do Bairro Novo",870,327,2018,10,2,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,10,2,11,0,"Avenida Central",0,0
+"stationary traffic","Rua da Lameira / Rua Manuel Fernandes Franqueira","Rua Nova de Santa Cruz",440,356,2018,10,2,17,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,170,2018,10,2,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,10,2,17,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",320,200,2018,10,2,18,0,"Avenida Central",0,0
+"stationary traffic","Rua da Estrada Nova / Rua da Universidade","Rua Nova de Santa Cruz",410,256,2018,10,2,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",180,137,2018,10,2,18,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",350,254,2018,10,2,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua Nova de Santa Cruz","Avenida João Paulo II",350,211,2018,10,2,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",420,728,2018,10,2,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",320,199,2018,10,2,19,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","São Vicente","Avenida Padre Júlio Fragata",560,224,2018,10,3,8,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Rua do Caires","Rua Feliciano Ramos (N101)",350,41,2018,10,3,8,0,"Nao tem",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",690,215,2018,10,3,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","Rua da Lameira / Rua Manuel Fernandes Franqueira","Rua Nova de Santa Cruz",420,719,2018,10,3,8,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,143,2018,10,3,8,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",960,57,2018,10,3,8,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",170,161,2018,10,3,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",320,296,2018,10,3,17,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",700,34,2018,10,3,17,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1460,193,2018,10,3,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,266,2018,10,3,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",380,172,2018,10,3,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua Bernardo Sequeira / Rua Cândido de Oliveira","Avenida da Liberdade",400,416,2018,10,4,8,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",230,98,2018,10,4,8,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",280,452,2018,10,4,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,288,2018,10,4,17,0,"Avenida Central",0,0
+"slow traffic","N101","Avenida João Paulo II",840,122,2018,10,4,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,170,2018,10,4,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua da Lameira / Rua Manuel Fernandes Franqueira","Rua Nova de Santa Cruz",460,284,2018,10,4,17,0,"Rua Nova de Santa Cruz",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1600,114,2018,10,4,17,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida Central","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",550,137,2018,10,4,17,0,"Avenida Central",0,0
+"slow traffic","Avenida General Norton de Matos","Avenida Padre Júlio Fragata",660,43,2018,10,4,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","N101","Avenida João Paulo II",910,246,2018,10,4,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida da Liberdade","Avenida João XXI (N103) / Rua Martins Sarmento",500,515,2018,10,4,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua do Monte de Arcos","Avenida Padre Júlio Fragata",570,451,2018,10,4,18,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",450,51,2018,10,4,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vicente","Avenida Padre Júlio Fragata",790,279,2018,10,4,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida de São Pedro","Avenida João Paulo II",380,152,2018,10,4,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Miguel Torga / Via da Falperra (N309)","Avenida João Paulo II",1640,652,2018,10,4,18,0,"Avenida João Paulo II",0,1
+"stationary traffic","Rua Álvaro","Rua Nova de Santa Cruz",250,198,2018,10,4,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",420,728,2018,10,4,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",170,112,2018,10,4,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",180,107,2018,10,4,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Nova de Santa Cruz","Avenida João Paulo II",350,589,2018,10,4,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",240,112,2018,10,4,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua da Formigueira","Rua Costa Gomes",390,107,2018,10,4,18,0,"Rua Costa Gomes",0,0
+"stationary traffic","Rua Álvaro","Rua Nova de Santa Cruz",250,263,2018,10,4,19,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",240,194,2018,10,4,19,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,139,2018,10,4,19,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",420,1484,2018,10,4,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",180,190,2018,10,4,19,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","N101","Avenida João Paulo II",720,111,2018,10,4,19,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida General Norton de Matos","Avenida Padre Júlio Fragata",1220,71,2018,10,4,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",270,272,2018,10,4,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",360,186,2018,10,4,20,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","São Vicente",220,233,2018,10,4,20,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,364,2018,10,4,20,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",230,34,2018,10,5,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua Costa Gomes","Rua nossa senhora esperanca",270,170,2018,10,6,16,0,"Rua Costa Gomes",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",590,52,2018,10,6,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","São Vítor",600,159,2018,10,8,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,257,2018,10,8,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",400,181,2018,10,8,8,0,"Avenida da Liberdade",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",700,29,2018,10,8,8,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",330,188,2018,10,8,15,0,"Avenida da Liberdade",0,0
+"queuing traffic","N101","Avenida João Paulo II",1000,155,2018,10,8,17,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Nova do Bico",1260,77,2018,10,8,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",370,235,2018,10,8,17,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",590,289,2018,10,8,18,0,"Avenida Central",0,0
+"slow traffic","N101","Avenida João Paulo II",240,23,2018,10,8,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,209,2018,10,8,18,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",170,161,2018,10,8,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",260,133,2018,10,8,19,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua Capitão Alberto de Matos","Rua do Caires",240,189,2018,10,9,8,0,"Nao tem",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",690,249,2018,10,9,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",260,110,2018,10,9,8,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",580,212,2018,10,9,9,0,"Rua Costa Gomes",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",260,211,2018,10,9,13,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",280,289,2018,10,9,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",400,300,2018,10,9,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",500,367,2018,10,9,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","São Vicente",320,537,2018,10,9,17,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","N101","Avenida João Paulo II",550,85,2018,10,9,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,143,2018,10,9,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",240,266,2018,10,9,17,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",420,350,2018,10,9,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",220,349,2018,10,9,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","São Vicente",320,249,2018,10,9,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Nova de Santa Cruz","Avenida João XXI / Rua Bernardo Sequeira",960,244,2018,10,9,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",370,235,2018,10,9,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Rua do Bairro Novo",650,206,2018,10,10,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",250,203,2018,10,10,8,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",400,181,2018,10,10,8,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,303,2018,10,10,9,0,"Rua Costa Gomes",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",370,300,2018,10,10,12,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",280,118,2018,10,10,17,0,"Rua Nova de Santa Cruz",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",580,42,2018,10,10,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",280,208,2018,10,10,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",330,246,2018,10,10,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,170,2018,10,10,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",270,272,2018,10,10,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vicente","Avenida Padre Júlio Fragata",920,466,2018,10,11,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,209,2018,10,11,8,0,"Avenida Padre Júlio Fragata",0,1
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",320,22,2018,10,11,8,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",690,215,2018,10,11,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Rua do Bairro Novo",870,383,2018,10,11,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua do Caires","Rua Feliciano Ramos (N101)",880,182,2018,10,11,9,0,"Nao tem",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",250,278,2018,10,11,12,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1180,285,2018,10,11,14,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",780,50,2018,10,11,15,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",200,17,2018,10,11,15,0,"Avenida João Paulo II",1,1
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",500,277,2018,10,11,16,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",350,254,2018,10,11,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,266,2018,10,11,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",360,235,2018,10,11,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida da Liberdade","Avenida João XXI (N103) / Rua Martins Sarmento",610,631,2018,10,11,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",220,173,2018,10,11,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Praça Conselheiro Torres Almeida / Rua dos Biscaínhos","Avenida Central",330,112,2018,10,11,18,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1160,78,2018,10,11,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Largo de Monte de Arcos",240,189,2018,10,12,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,221,2018,10,12,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",260,268,2018,10,12,8,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Rua dos Peões",800,210,2018,10,12,8,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",780,34,2018,10,12,8,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",390,247,2018,10,12,12,0,"Rua Nova de Santa Cruz",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",500,21,2018,10,12,16,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,209,2018,10,12,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",220,233,2018,10,12,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",330,149,2018,10,12,17,0,"Avenida da Liberdade",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1830,182,2018,10,12,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",280,100,2018,10,12,17,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida João Paulo II",260,129,2018,10,12,18,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1030,74,2018,10,12,19,0,"Avenida João Paulo II",0,0
+"slow traffic","N101","Avenida João Paulo II",620,89,2018,10,14,15,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",240,122,2018,10,14,15,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",180,138,2018,10,14,16,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,169,2018,10,15,7,0,"Rua Costa Gomes",0,0
+"queuing traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,149,2018,10,15,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Rua do Bairro Novo",870,284,2018,10,15,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida João Paulo II",240,263,2018,10,15,8,0,"Avenida João Paulo II",1,0
+"stationary traffic","Largo do Monte de Arcos","Avenida Padre Júlio Fragata",450,156,2018,10,15,8,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",700,27,2018,10,15,8,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",330,246,2018,10,15,9,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,10,15,16,0,"Avenida Central",0,0
+"queuing traffic","N101","Avenida João Paulo II",1010,204,2018,10,15,17,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida Central","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",480,137,2018,10,15,17,0,"Avenida Central",0,0
+"slow traffic","Rua do Caires","Rua Feliciano Ramos (N101)",190,17,2018,10,15,17,0,"Nao tem",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",360,262,2018,10,15,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua da Estrada Nova / Rua da Universidade","Rua Nova de Santa Cruz",420,462,2018,10,15,17,0,"Rua Nova de Santa Cruz",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",880,56,2018,10,15,18,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida António Macedo","Avenida da Liberdade",720,129,2018,10,15,18,0,"Avenida da Liberdade",0,0
+"slow traffic","Avenida da Liberdade","Avenida João XXI (N103) / Rua Martins Sarmento",510,170,2018,10,15,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,143,2018,10,15,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,221,2018,10,16,7,0,"Rua Costa Gomes",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",690,293,2018,10,16,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida João Paulo II",260,161,2018,10,16,8,0,"Avenida João Paulo II",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",800,35,2018,10,16,17,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",320,200,2018,10,16,18,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",880,49,2018,10,16,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",220,217,2018,10,16,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",310,114,2018,10,16,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",360,171,2018,10,16,18,0,"Avenida Central",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",790,67,2018,10,16,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua da Estrada Nova / Rua da Universidade","Rua Nova de Santa Cruz",430,471,2018,10,17,8,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,169,2018,10,17,8,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","São Vicente",620,486,2018,10,17,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Praça Alexandre Herculano / Avenida General Norton de Matos",220,207,2018,10,17,15,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,170,2018,10,17,15,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1160,154,2018,10,17,15,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",280,215,2018,10,17,16,0,"Avenida da Liberdade",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",880,59,2018,10,17,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",420,224,2018,10,17,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",350,261,2018,10,17,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","São Vicente",170,277,2018,10,17,17,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",340,33,2018,10,17,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua da Estrada Nova / Rua da Universidade","Rua Nova de Santa Cruz",410,256,2018,10,17,17,0,"Rua Nova de Santa Cruz",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",520,31,2018,10,17,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","São Vítor",600,159,2018,10,18,8,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Rua do Caires","Avenida Padre Júlio Fragata",1070,149,2018,10,18,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua da Estrada Nova / Rua da Universidade","Rua Nova de Santa Cruz",410,692,2018,10,18,8,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,221,2018,10,18,8,0,"Rua Costa Gomes",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",680,46,2018,10,18,8,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",320,122,2018,10,18,8,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida da Liberdade","Avenida João XXI (N103) / Rua Martins Sarmento",460,197,2018,10,18,13,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","Rua de Gabriel Pereira Castro",310,195,2018,10,18,15,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",410,197,2018,10,18,17,0,"Avenida Central",0,0
+"stationary traffic","Rua do Bairro Novo","Rua Nova de Santa Cruz",330,269,2018,10,18,17,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",350,229,2018,10,18,17,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",880,49,2018,10,18,17,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",380,285,2018,10,18,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",350,229,2018,10,18,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",280,159,2018,10,18,18,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",220,217,2018,10,18,18,0,"Avenida da Liberdade",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",1260,66,2018,10,18,18,0,"Avenida João Paulo II",0,0
+"slow traffic","Rua do Caires","Rua Feliciano Ramos (N101)",330,38,2018,10,18,18,0,"Nao tem",0,0
+"queuing traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",390,172,2018,10,19,8,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua Costa Gomes","Rua do Caires / Rua Cardoso Avelino",720,221,2018,10,19,8,0,"Rua Costa Gomes",0,0
+"slow traffic","Avenida João Paulo II","Rua Feliciano Ramos (N101) / Rua Cónego Luciano Afonso dos Santos (N101)",520,28,2018,10,19,8,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Rua do Bairro Novo",590,217,2018,10,19,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua da Estrada Nova / Rua da Universidade","Rua Nova de Santa Cruz",440,746,2018,10,19,8,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,296,2018,10,19,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",248,164,2018,10,19,16,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,150,2018,10,19,16,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",308,206,2018,10,19,16,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,150,2018,10,19,17,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",678,157,2018,10,19,17,0,"Avenida Central",1,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",205,186,2018,10,19,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,230,2018,10,19,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,214,2018,10,19,17,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,135,2018,10,19,17,0,"Avenida Central",0,0
+"stationary traffic","Rua 25 De Abril (Avenida 31 De Janeiro)","Avenida Central",147,128,2018,10,19,17,0,"Avenida Central",0,1
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,220,2018,10,19,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","M564 (N205-4)","Rua Costa Gomes",266,168,2018,10,19,18,0,"Rua Costa Gomes",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,304,2018,10,19,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,183,2018,10,19,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",458,230,2018,10,19,19,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,211,2018,10,20,11,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,184,2018,10,21,15,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",269,241,2018,10,22,13,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",346,181,2018,10,22,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,187,2018,10,22,16,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,152,2018,10,22,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",322,243,2018,10,22,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",304,131,2018,10,22,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",615,250,2018,10,22,17,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,264,2018,10,22,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,218,2018,10,22,18,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",694,223,2018,10,22,18,0,"Avenida Central",1,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",147,123,2018,10,22,18,0,"Avenida Central",1,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",248,122,2018,10,22,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",308,240,2018,10,22,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",376,166,2018,10,22,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",330,176,2018,10,22,18,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",322,148,2018,10,22,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,132,2018,10,23,8,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,207,2018,10,23,8,0,"Avenida Central",1,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,270,2018,10,23,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,264,2018,10,23,11,0,"Avenida Central",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,174,2018,10,23,16,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,189,2018,10,23,17,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",755,258,2018,10,23,17,0,"Avenida Central",1,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",147,136,2018,10,23,17,0,"Avenida Central",1,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,374,2018,10,23,17,0,"Avenida Central",1,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,314,2018,10,23,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",341,161,2018,10,23,18,0,"Avenida Central",1,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",205,219,2018,10,23,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",306,214,2018,10,23,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",322,179,2018,10,23,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","M564 (N205-4)","Rua Costa Gomes",381,159,2018,10,23,18,0,"Rua Costa Gomes",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",371,169,2018,10,23,18,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,157,2018,10,24,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,219,2018,10,24,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,327,2018,10,24,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",205,139,2018,10,24,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,169,2018,10,24,18,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,180,2018,10,25,8,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,165,2018,10,25,14,0,"Avenida Central",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,315,2018,10,25,14,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,275,2018,10,25,16,0,"Avenida da Liberdade",0,0
+"queuing traffic","Rua Lusíadas / Rua dos Peões","Avenida João Paulo II",602,169,2018,10,25,16,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",498,210,2018,10,25,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,507,2018,10,25,17,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,242,2018,10,25,17,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,197,2018,10,25,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",228,155,2018,10,25,17,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,313,2018,10,25,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,279,2018,10,25,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",638,311,2018,10,25,18,0,"Avenida Central",1,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",228,135,2018,10,25,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Braga-Circular (São Vítor) (N103)","Rua Nova de Santa Cruz",498,184,2018,10,26,8,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,213,2018,10,26,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,208,2018,10,26,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,506,2018,10,26,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,219,2018,10,27,11,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",147,159,2018,10,27,11,0,"Avenida Central",1,1
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",205,297,2018,10,29,10,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",308,274,2018,10,29,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,175,2018,10,29,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,188,2018,10,29,17,0,"Avenida Central",1,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,131,2018,10,29,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,215,2018,10,29,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,180,2018,10,29,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",228,145,2018,10,29,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",147,159,2018,10,29,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",205,124,2018,10,30,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",348,287,2018,10,30,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,214,2018,10,30,12,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",205,165,2018,10,30,14,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",206,179,2018,10,30,15,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,181,2018,10,30,15,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",306,124,2018,10,30,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,175,2018,10,30,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",264,153,2018,10,30,18,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",205,263,2018,10,30,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,173,2018,10,30,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,162,2018,10,30,19,0,"Avenida Central",1,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,265,2018,10,30,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",205,200,2018,10,30,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",352,306,2018,10,30,19,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",248,225,2018,10,31,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,157,2018,10,31,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",385,441,2018,10,31,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",248,211,2018,10,31,10,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,208,2018,10,31,12,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,359,2018,10,31,15,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,610,2018,10,31,16,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,166,2018,10,31,17,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,142,2018,10,31,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,390,2018,10,31,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,189,2018,10,31,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,135,2018,10,31,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",341,290,2018,10,31,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,205,2018,10,31,19,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",322,182,2018,11,2,8,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,185,2018,11,2,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",196,146,2018,11,2,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,174,2018,11,2,10,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,238,2018,11,2,10,0,"Avenida da Liberdade",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",269,165,2018,11,2,14,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,204,2018,11,2,15,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,241,2018,11,2,16,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,233,2018,11,2,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,153,2018,11,2,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,287,2018,11,2,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",381,139,2018,11,2,18,0,"Avenida Central",1,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",306,288,2018,11,2,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,300,2018,11,2,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,178,2018,11,2,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Cm1327 (N201)","Rua Costa Gomes",262,252,2018,11,2,19,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,271,2018,11,2,19,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,265,2018,11,3,11,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",304,302,2018,11,3,12,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,202,2018,11,3,13,0,"Avenida Central",0,0
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",264,132,2018,11,4,15,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",264,161,2018,11,4,16,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",205,121,2018,11,4,16,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Caminho de Lamas","Avenida Padre Júlio Fragata",674,152,2018,11,5,8,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Estrada da Variante de Real / Rua da Cotorela","Rua Costa Gomes",208,149,2018,11,5,9,0,"Rua Costa Gomes",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",371,371,2018,11,5,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua Nova de Santa Cruz","Braga-Circular (São Vítor) (N103)",615,192,2018,11,5,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,487,2018,11,5,9,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,133,2018,11,5,9,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,142,2018,11,5,10,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,205,2018,11,5,14,0,"Avenida Central",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,221,2018,11,5,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,214,2018,11,5,17,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,183,2018,11,5,17,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,126,2018,11,5,18,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,125,2018,11,5,18,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",615,185,2018,11,5,18,0,"Avenida Central",1,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",205,132,2018,11,5,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",362,281,2018,11,5,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,397,2018,11,5,18,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",269,177,2018,11,5,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Praça Conselheiro Torres Almeida / Rua dos Biscaínhos","Avenida Central",313,125,2018,11,5,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,271,2018,11,5,19,0,"Avenida Central",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",250,183,2018,11,5,19,0,"Avenida da Liberdade",0,0
+"slow traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",498,125,2018,11,5,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,237,2018,11,5,19,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",234,208,2018,11,5,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,306,2018,11,5,19,0,"Avenida Padre Júlio Fragata",1,1
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,281,2018,11,6,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,157,2018,11,6,14,0,"Avenida Central",0,0
+"slow traffic","N101 (Rua De Santa Margarida)","Avenida Central",506,141,2018,11,6,15,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",264,180,2018,11,6,17,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,126,2018,11,6,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,253,2018,11,6,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",266,273,2018,11,6,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,205,2018,11,6,18,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",590,159,2018,11,6,18,0,"Avenida Central",1,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",250,160,2018,11,6,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,319,2018,11,6,19,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",613,196,2018,11,6,19,0,"Avenida Central",1,0
+"stationary traffic","Avenida da Imaculada Conceição (N14) / Rua de Sá de Miranda","Avenida da Liberdade",205,230,2018,11,6,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",147,177,2018,11,6,19,0,"Avenida Central",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,475,2018,11,6,19,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,269,2018,11,6,20,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",266,174,2018,11,6,20,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",266,165,2018,11,6,21,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,251,2018,11,7,9,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",218,198,2018,11,7,13,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,166,2018,11,7,15,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",306,499,2018,11,7,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,316,2018,11,7,18,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","N103 (N101)",499,164,2018,11,7,18,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,150,2018,11,7,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida António Macedo","Avenida da Liberdade",498,249,2018,11,7,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Praça Conselheiro Torres Almeida / Rua dos Biscaínhos","Avenida Central",322,158,2018,11,7,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,234,2018,11,7,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",678,276,2018,11,7,19,0,"Avenida Central",1,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,355,2018,11,7,19,0,"Avenida Central",1,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",322,206,2018,11,7,19,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,191,2018,11,8,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,174,2018,11,8,9,0,"Avenida Central",1,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",440,587,2018,11,8,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,212,2018,11,8,10,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",498,231,2018,11,8,17,0,"Avenida da Liberdade",0,0
+"slow traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",440,137,2018,11,8,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,273,2018,11,8,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,187,2018,11,8,18,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",590,128,2018,11,8,18,0,"Avenida Central",1,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,266,2018,11,8,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,211,2018,11,8,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,182,2018,11,8,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,256,2018,11,8,19,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,263,2018,11,8,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Cm1327 (N201)","Rua Costa Gomes",199,153,2018,11,8,19,0,"Rua Costa Gomes",0,0
+"stationary traffic","Rua Lusíadas / Rua dos Peões","Rua Nova de Santa Cruz",264,137,2018,11,8,23,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,124,2018,11,9,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,167,2018,11,9,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,265,2018,11,9,13,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,179,2018,11,9,14,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",284,251,2018,11,9,14,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,144,2018,11,9,15,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,129,2018,11,9,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",248,173,2018,11,9,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,170,2018,11,9,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,251,2018,11,9,18,0,"Avenida Central",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",250,179,2018,11,9,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",362,272,2018,11,9,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,144,2018,11,9,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",266,178,2018,11,9,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Estrada da Variante de Real / Rua da Cotorela","Rua Costa Gomes",205,293,2018,11,9,19,0,"Rua Costa Gomes",0,0
+"stationary traffic","Rua Cónego Doutor Manuel Faria (N201)","Rua Costa Gomes",1517,599,2018,11,9,19,0,"Rua Costa Gomes",0,1
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",205,154,2018,11,9,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida da Imaculada Conceição (N14) / Rua de Sá de Miranda","Avenida da Liberdade",161,195,2018,11,9,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N103 (N101)",327,158,2018,11,9,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida João Paulo II","Praça do Condestável (N14) / Avenida Conde Dom Henrique",1269,394,2018,11,9,19,0,"Avenida João Paulo II",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,172,2018,11,10,12,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,159,2018,11,10,13,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,230,2018,11,10,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",248,222,2018,11,11,12,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida da Liberdade","Avenida Pires Gonçalves",237,270,2018,11,11,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",264,138,2018,11,11,16,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,356,2018,11,12,9,0,"Avenida Central",0,0
+"stationary traffic","Braga-Circular (São Vítor) (N103)","Rua Nova de Santa Cruz",498,268,2018,11,12,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",272,129,2018,11,12,9,0,"Rua Nova de Santa Cruz",0,1
+"stationary traffic","Rua Costa Gomes","M564 (N205-4)",264,280,2018,11,12,15,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",362,254,2018,11,12,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,314,2018,11,12,16,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",678,231,2018,11,12,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,497,2018,11,12,18,0,"Avenida Central",1,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,245,2018,11,12,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",218,184,2018,11,12,18,0,"Rua Nova de Santa Cruz",0,0
+"slow traffic","Avenida António Macedo","Avenida da Liberdade",783,139,2018,11,12,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,221,2018,11,12,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",615,221,2018,11,12,19,0,"Avenida Central",1,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,224,2018,11,12,19,0,"Avenida Central",1,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",218,136,2018,11,12,19,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida da Liberdade","Avenida Doutor Porfírio da Silva / Rua de Baixo",498,160,2018,11,12,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,197,2018,11,13,9,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,123,2018,11,13,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",228,136,2018,11,13,14,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",615,182,2018,11,13,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,396,2018,11,13,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua 25 De Abril (Avenida 31 De Janeiro)","Avenida Central",147,183,2018,11,13,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida João Paulo II",205,132,2018,11,13,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,232,2018,11,13,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",266,126,2018,11,13,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",205,122,2018,11,13,19,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,149,2018,11,14,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,150,2018,11,14,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,182,2018,11,14,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",205,175,2018,11,14,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",498,335,2018,11,14,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,154,2018,11,14,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,325,2018,11,14,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",266,235,2018,11,14,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,214,2018,11,14,19,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,200,2018,11,14,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,259,2018,11,15,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",264,135,2018,11,15,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,481,2018,11,15,9,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",381,546,2018,11,15,9,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,183,2018,11,15,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Rua Do Raio Penha (N101)",381,131,2018,11,15,18,0,"Avenida Central",1,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",306,280,2018,11,15,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,235,2018,11,15,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Lusíadas / Rua dos Peões","Rua Nova de Santa Cruz",251,315,2018,11,15,22,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,240,2018,11,16,9,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,157,2018,11,16,14,0,"Avenida Central",0,0
+"slow traffic","N101 (Rua De Santa Margarida)","Avenida Central",615,126,2018,11,16,15,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,122,2018,11,16,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",205,155,2018,11,16,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",306,301,2018,11,16,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",205,157,2018,11,16,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,426,2018,11,16,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",228,122,2018,11,16,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,327,2018,11,16,19,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",252,149,2018,11,17,11,0,"Avenida Central",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,180,2018,11,17,11,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,275,2018,11,17,12,0,"Avenida Central",0,0
+"queuing traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",308,145,2018,11,17,12,0,"Avenida Central",0,0
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",264,127,2018,11,18,16,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,137,2018,11,19,9,0,"Avenida Central",0,0
+"stationary traffic","Braga-Circular (São Vítor) (N103)","Rua Nova de Santa Cruz",557,170,2018,11,19,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua Bernardo Sequeira / Rua Cândido de Oliveira","Avenida da Liberdade",264,162,2018,11,19,11,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,225,2018,11,19,14,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,215,2018,11,19,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,238,2018,11,19,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,180,2018,11,19,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,239,2018,11,19,19,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",264,156,2018,11,19,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,220,2018,11,20,9,0,"Avenida Central",0,0
+"stationary traffic","Caminho de Lamas","Avenida Padre Júlio Fragata",506,168,2018,11,20,11,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",308,204,2018,11,20,15,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,184,2018,11,20,16,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,129,2018,11,20,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,281,2018,11,20,18,0,"Avenida Central",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",147,133,2018,11,20,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,230,2018,11,20,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,290,2018,11,20,19,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,169,2018,11,20,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",306,186,2018,11,21,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,169,2018,11,21,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",440,488,2018,11,21,9,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,192,2018,11,21,16,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,336,2018,11,21,16,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,158,2018,11,21,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",205,159,2018,11,21,18,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",375,142,2018,11,21,18,0,"Avenida Central",1,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,272,2018,11,21,18,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,133,2018,11,21,18,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",291,223,2018,11,21,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,274,2018,11,21,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",187,173,2018,11,21,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",264,126,2018,11,21,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,252,2018,11,21,19,0,"Avenida Padre Júlio Fragata",1,1
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,192,2018,11,22,9,0,"Avenida Central",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",205,155,2018,11,22,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",342,152,2018,11,22,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,337,2018,11,22,9,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,149,2018,11,22,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",381,759,2018,11,22,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,170,2018,11,22,13,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",228,187,2018,11,22,13,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",205,176,2018,11,22,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,418,2018,11,22,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",370,263,2018,11,22,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",422,164,2018,11,22,18,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,125,2018,11,22,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,208,2018,11,22,19,0,"Avenida Central",1,0
+"slow traffic","Rua Doutor Francisco Duarte (Avenida 31 De Janeiro)","Avenida Central",498,151,2018,11,22,19,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,283,2018,11,22,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",422,219,2018,11,22,19,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",205,202,2018,11,23,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",264,207,2018,11,23,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",281,268,2018,11,23,9,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,152,2018,11,23,11,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",371,184,2018,11,23,13,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,345,2018,11,23,14,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",205,271,2018,11,23,15,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,211,2018,11,23,16,0,"Avenida Central",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",506,396,2018,11,23,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,367,2018,11,23,17,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,381,2018,11,23,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",291,241,2018,11,23,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida António Macedo","Avenida da Liberdade",441,187,2018,11,23,18,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,166,2018,11,23,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",755,420,2018,11,23,18,0,"Avenida Central",1,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,159,2018,11,23,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,343,2018,11,23,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,333,2018,11,23,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,129,2018,11,23,18,0,"Avenida Padre Júlio Fragata",1,1
+"stationary traffic","Rua Nova de Santa Cruz","Avenida João Paulo II",381,194,2018,11,23,18,0,"Avenida João Paulo II",0,0
+"queuing traffic","São Vicente","Avenida Padre Júlio Fragata",791,145,2018,11,23,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,314,2018,11,23,19,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",590,166,2018,11,23,19,0,"Avenida Central",1,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,214,2018,11,23,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Álvaro","Rua Nova de Santa Cruz",147,167,2018,11,23,19,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua Álvaro","Rua Nova de Santa Cruz",322,309,2018,11,23,19,0,"Rua Nova de Santa Cruz",1,1
+"stationary traffic","Rua Nova de Santa Cruz","Avenida João Paulo II",381,280,2018,11,23,19,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,190,2018,11,23,20,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,180,2018,11,23,20,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Álvaro","Rua Nova de Santa Cruz",381,138,2018,11,23,20,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",205,128,2018,11,23,22,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,130,2018,11,24,12,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,156,2018,11,24,14,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,203,2018,11,25,17,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,161,2018,11,25,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",381,550,2018,11,26,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,171,2018,11,26,10,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,276,2018,11,26,15,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,180,2018,11,26,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",205,155,2018,11,26,17,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,143,2018,11,26,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,234,2018,11,26,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,261,2018,11,26,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,256,2018,11,26,19,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",425,133,2018,11,26,19,0,"Avenida Central",1,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,267,2018,11,26,19,0,"Avenida Central",1,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,165,2018,11,26,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,231,2018,11,27,9,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,213,2018,11,27,15,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",196,150,2018,11,27,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,287,2018,11,27,18,0,"Avenida Central",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,306,2018,11,27,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,473,2018,11,27,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,213,2018,11,27,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,300,2018,11,27,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",551,256,2018,11,27,19,0,"Avenida Central",1,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",304,173,2018,11,27,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",422,503,2018,11,28,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua Bernardo Sequeira / Rua Cândido de Oliveira","Avenida da Liberdade",147,157,2018,11,28,13,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",208,131,2018,11,28,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",248,171,2018,11,28,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,315,2018,11,28,17,0,"Avenida Central",0,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",615,211,2018,11,28,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,365,2018,11,28,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,362,2018,11,28,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",440,513,2018,11,29,9,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,152,2018,11,29,9,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",370,179,2018,11,29,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,255,2018,11,29,15,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,207,2018,11,29,16,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,153,2018,11,29,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,279,2018,11,29,18,0,"Avenida da Liberdade",0,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,138,2018,11,29,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",234,177,2018,11,29,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,362,2018,11,29,18,0,"Avenida Padre Júlio Fragata",1,1
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,209,2018,11,29,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,186,2018,11,29,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,279,2018,11,29,19,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,168,2018,11,29,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",228,118,2018,11,29,19,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,204,2018,11,30,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,481,2018,11,30,9,0,"Avenida Central",1,0
+"stationary traffic","Gualtar (N103)","Rua Nova de Santa Cruz",498,484,2018,11,30,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",264,149,2018,11,30,14,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,282,2018,11,30,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,240,2018,11,30,17,0,"Avenida Central",1,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,255,2018,11,30,18,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",557,187,2018,11,30,18,0,"Avenida Central",1,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,156,2018,11,30,18,0,"Avenida Central",1,0
+"stationary traffic","M564 (N205-4)","Rua Costa Gomes",364,108,2018,11,30,19,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,336,2018,11,30,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",613,213,2018,11,30,19,0,"Avenida Central",1,0
+"queuing traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",615,277,2018,11,30,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,197,2018,12,1,12,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,147,2018,12,1,12,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,136,2018,12,1,16,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,165,2018,12,1,17,0,"Avenida Central",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,215,2018,12,1,17,0,"Avenida Central",0,0
+"queuing traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",362,124,2018,12,1,17,0,"Avenida da Liberdade",0,0
+"queuing traffic","N103 (Avenida 31 De Janeiro)","Avenida Central",316,126,2018,12,1,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",208,281,2018,12,1,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,291,2018,12,1,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",322,275,2018,12,1,18,0,"Avenida Central",0,0
+"stationary traffic","Rua Doutor Francisco Duarte (Avenida 31 De Janeiro)","Avenida Central",498,587,2018,12,1,18,0,"Avenida Central",0,1
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,151,2018,12,1,22,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,283,2018,12,2,0,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,177,2018,12,2,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,224,2018,12,2,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",252,257,2018,12,2,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,188,2018,12,2,20,0,"Avenida Central",0,0
+"stationary traffic","São Vicente","Avenida Padre Júlio Fragata",1114,387,2018,12,3,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",264,168,2018,12,3,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,350,2018,12,3,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",205,157,2018,12,3,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",440,693,2018,12,3,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Praça Conselheiro Torres Almeida / Rua dos Biscaínhos","Avenida Central",322,408,2018,12,3,10,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",554,301,2018,12,3,10,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",304,137,2018,12,3,10,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",219,207,2018,12,3,11,0,"Avenida da Liberdade",0,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,152,2018,12,3,15,0,"Avenida Central",0,0
+"queuing traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,181,2018,12,3,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","M564 (N205-4)","Rua Costa Gomes",266,150,2018,12,3,18,0,"Rua Costa Gomes",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,187,2018,12,3,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",216,183,2018,12,3,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",266,179,2018,12,3,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",304,289,2018,12,3,19,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",499,157,2018,12,3,19,0,"Avenida Central",1,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",250,267,2018,12,3,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,281,2018,12,3,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,410,2018,12,3,19,0,"Avenida Central",0,0
+"queuing traffic","Rua Dos Barbosas (Avenida 31 De Janeiro)","Avenida Central",557,204,2018,12,3,19,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,309,2018,12,3,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",440,302,2018,12,3,19,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,234,2018,12,3,20,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,205,2018,12,4,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,194,2018,12,4,9,0,"Avenida Central",1,0
+"stationary traffic","Rua Bernardo Sequeira / Rua Cândido de Oliveira","Avenida da Liberdade",205,149,2018,12,4,9,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",252,155,2018,12,4,12,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,219,2018,12,4,15,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,232,2018,12,4,15,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,128,2018,12,4,16,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",308,197,2018,12,4,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,276,2018,12,4,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",678,245,2018,12,4,18,0,"Avenida Central",1,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,202,2018,12,4,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",615,265,2018,12,4,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,245,2018,12,4,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,652,2018,12,4,19,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",370,246,2018,12,4,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",205,274,2018,12,4,20,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",362,272,2018,12,5,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,149,2018,12,5,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",371,226,2018,12,5,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,160,2018,12,5,15,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,155,2018,12,5,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",248,205,2018,12,5,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,416,2018,12,5,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,259,2018,12,5,18,0,"Avenida Central",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",615,214,2018,12,5,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,287,2018,12,5,19,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",551,192,2018,12,5,19,0,"Avenida Central",1,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,645,2018,12,5,19,0,"Avenida Central",1,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,427,2018,12,6,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,265,2018,12,6,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,226,2018,12,6,10,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",147,140,2018,12,6,10,0,"Avenida Central",1,1
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,196,2018,12,6,11,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",228,174,2018,12,6,14,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,137,2018,12,6,15,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,166,2018,12,6,17,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,173,2018,12,6,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",560,210,2018,12,6,18,0,"Avenida Central",1,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,740,2018,12,6,18,0,"Avenida Central",1,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",376,233,2018,12,6,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida António Macedo","Avenida da Liberdade",278,180,2018,12,6,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Praça Conselheiro Torres Almeida / Rua dos Biscaínhos","Avenida Central",322,175,2018,12,6,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",205,166,2018,12,6,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Rua Do Raio Penha (N101)",513,226,2018,12,6,19,0,"Avenida Central",1,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",250,164,2018,12,6,19,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,151,2018,12,6,19,0,"Avenida Central",0,0
+"slow traffic","Rua Doutor Francisco Duarte (Avenida 31 De Janeiro)","Avenida Central",498,129,2018,12,6,19,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,289,2018,12,6,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Nova de Santa Cruz","Avenida João Paulo II",381,463,2018,12,6,19,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida João Paulo II",264,234,2018,12,6,22,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,217,2018,12,7,9,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,171,2018,12,7,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",440,412,2018,12,7,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,202,2018,12,7,13,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",205,136,2018,12,7,16,0,"Avenida Central",0,0
+"queuing traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",322,129,2018,12,7,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,327,2018,12,7,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,253,2018,12,7,17,0,"Avenida Central",0,0
+"stationary traffic","Praça Conselheiro Torres Almeida / Rua dos Biscaínhos","Avenida Central",322,307,2018,12,7,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",791,394,2018,12,7,18,0,"Avenida Central",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,369,2018,12,7,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,212,2018,12,7,18,0,"Avenida da Liberdade",0,0
+"queuing traffic","Rua Dos Barbosas (Avenida 31 De Janeiro)","Avenida Central",733,207,2018,12,7,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",224,144,2018,12,7,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",205,193,2018,12,7,18,0,"Avenida Padre Júlio Fragata",1,1
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",264,340,2018,12,7,18,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",205,157,2018,12,7,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Nova de Santa Cruz","Avenida João Paulo II",381,231,2018,12,7,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",322,235,2018,12,7,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Praça Conselheiro Torres Almeida / Rua dos Biscaínhos","Avenida Central",322,220,2018,12,7,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,231,2018,12,7,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",755,405,2018,12,7,19,0,"Avenida Central",1,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",250,158,2018,12,7,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,272,2018,12,7,19,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,218,2018,12,7,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Doutor Porfírio da Silva / Rua de Baixo","Avenida da Liberdade",358,220,2018,12,7,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",264,347,2018,12,7,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",205,155,2018,12,7,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua Nova de Santa Cruz","Avenida João Paulo II",147,201,2018,12,7,19,0,"Avenida João Paulo II",0,0
+"stationary traffic","Rua Álvaro","Rua Nova de Santa Cruz",147,194,2018,12,7,19,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua Álvaro","Rua Nova de Santa Cruz",264,184,2018,12,7,19,0,"Rua Nova de Santa Cruz",1,1
+"stationary traffic","Nogueiró","Avenida João Paulo II",205,174,2018,12,7,19,0,"Avenida João Paulo II",0,0
+"stationary traffic","M564 (N205-4)","Rua Costa Gomes",498,183,2018,12,7,19,0,"Rua Costa Gomes",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,189,2018,12,7,20,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",623,157,2018,12,7,20,0,"Avenida Central",1,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",208,122,2018,12,7,20,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida da Liberdade","Avenida Doutor Porfírio da Silva / Rua de Baixo",498,270,2018,12,7,20,0,"Avenida da Liberdade",1,0
+"stationary traffic","Avenida Doutor Porfírio da Silva / Rua de Baixo","Avenida da Liberdade",358,156,2018,12,7,20,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua Bernardo Sequeira / Rua Cândido de Oliveira","Avenida da Liberdade",205,167,2018,12,7,20,0,"Avenida da Liberdade",0,1
+"queuing traffic","Rua Dos Barbosas (Avenida 31 De Janeiro)","Avenida Central",652,239,2018,12,7,20,0,"Avenida Central",0,0
+"stationary traffic","Rua Lusíadas / Rua dos Peões","Avenida João Paulo II",602,463,2018,12,7,20,0,"Avenida João Paulo II",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",422,312,2018,12,7,20,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,146,2018,12,8,11,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",322,373,2018,12,8,12,0,"Avenida Central",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",506,311,2018,12,8,13,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,130,2018,12,8,15,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,189,2018,12,8,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida João Paulo II",264,143,2018,12,8,16,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",264,191,2018,12,8,16,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",322,202,2018,12,8,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",205,168,2018,12,8,18,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Padre Júlio Fragata","São Vítor",557,138,2018,12,8,22,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",376,323,2018,12,9,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",615,485,2018,12,9,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,521,2018,12,9,16,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua 25 De Abril (Avenida 31 De Janeiro)","Avenida Central",147,383,2018,12,9,16,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,152,2018,12,9,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Rua Do Raio Penha (N101)",406,329,2018,12,9,18,0,"Avenida Central",1,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,400,2018,12,9,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Rua Do Raio Penha (N101)",381,135,2018,12,9,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,181,2018,12,10,9,0,"Avenida Central",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",453,214,2018,12,10,9,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",196,163,2018,12,10,14,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,158,2018,12,10,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,322,2018,12,10,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,224,2018,12,10,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,136,2018,12,10,18,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",196,141,2018,12,10,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",218,140,2018,12,10,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,365,2018,12,10,18,0,"Avenida Padre Júlio Fragata",1,1
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,215,2018,12,10,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",557,184,2018,12,10,19,0,"Avenida Central",1,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,211,2018,12,10,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,190,2018,12,11,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,230,2018,12,11,9,0,"Avenida Central",1,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,259,2018,12,11,10,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,140,2018,12,11,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,240,2018,12,11,16,0,"Avenida Central",1,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",322,226,2018,12,11,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",304,426,2018,12,11,18,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,144,2018,12,11,18,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",330,270,2018,12,11,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","São Vicente","Avenida Padre Júlio Fragata",904,372,2018,12,11,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,138,2018,12,11,19,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,251,2018,12,11,19,0,"Avenida Central",0,0
+"stationary traffic","N14","Avenida da Liberdade",205,182,2018,12,11,22,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,127,2018,12,12,9,0,"Avenida Central",0,0
+"slow traffic","Caminho de Lamas","Avenida Padre Júlio Fragata",674,82,2018,12,12,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",264,156,2018,12,12,9,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,134,2018,12,12,9,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",422,412,2018,12,12,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",324,275,2019,1,15,19,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",308,178,2019,1,15,19,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,281,2019,1,15,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",346,168,2019,1,16,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,166,2019,1,16,17,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,211,2019,1,16,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,210,2019,1,16,18,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","N103 (N101)",678,189,2019,1,16,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,387,2019,1,16,19,0,"Avenida Central",1,0
+"queuing traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Doutor Francisco Duarte",352,138,2019,1,17,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,125,2019,1,17,15,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,164,2019,1,17,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,377,2019,1,17,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",264,239,2019,1,17,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",506,436,2019,1,17,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,186,2019,1,17,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,249,2019,1,17,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",678,287,2019,1,17,19,0,"Avenida Central",1,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,168,2019,1,17,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,201,2019,1,17,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,304,2019,1,17,19,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,216,2019,1,17,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,269,2019,1,18,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",304,296,2019,1,18,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,190,2019,1,18,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,230,2019,1,18,20,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",236,433,2019,1,18,20,0,"Avenida Padre Júlio Fragata",1,1
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",434,286,2019,1,19,12,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",362,241,2019,1,19,12,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,196,2019,1,19,12,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",372,234,2019,1,19,13,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,130,2019,1,21,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua Bernardo Sequeira / Rua Cândido de Oliveira","Avenida da Liberdade",411,250,2019,1,21,9,0,"Avenida da Liberdade",0,1
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,148,2019,1,21,16,0,"Avenida Central",0,0
+"slow traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",498,140,2019,1,21,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,241,2019,1,21,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",499,205,2019,1,21,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",466,355,2019,1,21,19,0,"Avenida Central",1,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,328,2019,1,21,19,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,204,2019,1,21,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,174,2019,1,22,11,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,166,2019,1,22,15,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",270,209,2019,1,22,16,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,174,2019,1,22,17,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",291,256,2019,1,22,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",499,213,2019,1,22,18,0,"Avenida Central",1,0
+"queuing traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",250,157,2019,1,22,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",376,430,2019,1,22,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","M564 (N205-4)","Rua Costa Gomes",844,290,2019,1,22,19,0,"Rua Costa Gomes",0,0
+"stationary traffic","Rua de Tourido / Rua da Nossa Senhora das Graças","Rua Costa Gomes",440,163,2019,1,22,19,0,"Rua Costa Gomes",0,1
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",434,360,2019,1,22,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",205,197,2019,1,22,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua Dos Barbosas (Avenida 31 De Janeiro)","Avenida Central",729,355,2019,1,22,19,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",440,629,2019,1,22,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,233,2019,1,22,20,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,134,2019,1,23,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida da Liberdade","Avenida da Imaculada Conceição (N309) / Avenida João XXI (N309)",205,132,2019,1,23,14,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",362,286,2019,1,23,15,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",322,174,2019,1,23,15,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,201,2019,1,23,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",308,285,2019,1,23,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",306,180,2019,1,23,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,372,2019,1,23,18,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",308,291,2019,1,23,18,0,"Avenida Central",0,0
+"stationary traffic","Rua de Tourido / Rua da Nossa Senhora das Graças","Rua Costa Gomes",322,150,2019,1,23,19,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",466,472,2019,1,23,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",205,174,2019,1,24,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",304,200,2019,1,24,10,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",324,137,2019,1,24,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",339,264,2019,1,24,18,0,"Avenida Central",0,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",506,194,2019,1,24,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",370,178,2019,1,24,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",466,356,2019,1,24,19,0,"Avenida Central",0,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,142,2019,1,24,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida João Paulo II",264,143,2019,1,24,19,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida João Paulo II","Avenida Padre Júlio Fragata",264,127,2019,1,24,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",264,122,2019,1,24,19,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",291,180,2019,1,25,9,0,"Rua Nova de Santa Cruz",0,0
+"slow traffic","Avenida Central","Rua Do Conselheiro Bento Miguel (N101)",330,125,2019,1,25,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,299,2019,1,25,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",356,263,2019,1,25,18,0,"Avenida Central",0,0
+"queuing traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",615,256,2019,1,25,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,156,2019,1,25,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",613,277,2019,1,25,19,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",466,263,2019,1,25,19,0,"Avenida Central",1,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",304,268,2019,1,25,19,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",360,164,2019,1,26,12,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,241,2019,1,26,12,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",334,132,2019,1,26,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",205,168,2019,1,26,18,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,151,2019,1,26,19,0,"Avenida Central",0,0
+"stationary traffic","Rua Costa Gomes","Rua Dos Caires (N201)",1582,436,2019,1,26,23,0,"Rua Costa Gomes",0,0
+"stationary traffic","Estrada da Variante de Real / Rua da Cotorela","Rua Costa Gomes",264,206,2019,1,26,23,0,"Rua Costa Gomes",0,0
+"stationary traffic","Estrada da Variante de Real","Rua Costa Gomes",264,210,2019,1,27,0,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",238,174,2019,1,27,16,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",290,145,2019,1,27,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida João Paulo II",230,130,2019,1,28,9,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",264,167,2019,1,28,10,0,"Avenida da Liberdade",0,0
+"stationary traffic","M564 (N205-4)","Rua Costa Gomes",374,233,2019,1,28,13,0,"Rua Costa Gomes",0,0
+"stationary traffic","M564 (N205-4)","Rua Costa Gomes",248,220,2019,1,28,14,0,"Rua Costa Gomes",0,0
+"stationary traffic","M564 (N205-4)","Rua Costa Gomes",226,171,2019,1,28,15,0,"Rua Costa Gomes",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",506,318,2019,1,28,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,630,2019,1,28,17,0,"Avenida Central",0,0
+"stationary traffic","M564 (N205-4)","Rua Costa Gomes",440,120,2019,1,28,18,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,150,2019,1,28,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",615,267,2019,1,28,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,188,2019,1,28,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",248,146,2019,1,28,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",434,300,2019,1,29,9,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,140,2019,1,29,15,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Rua de Dom Pedro V",205,126,2019,1,29,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",386,360,2019,1,29,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,254,2019,1,30,9,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",270,135,2019,1,30,16,0,"Avenida Central",0,0
+"queuing traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Beato Miguel de Carvalho",376,125,2019,1,30,17,0,"Avenida da Liberdade",0,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,162,2019,1,30,17,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",557,165,2019,1,30,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,524,2019,1,30,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,404,2019,1,30,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,369,2019,1,30,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Padre Júlio Fragata",322,152,2019,1,30,18,0,"Avenida Padre Júlio Fragata",0,1
+"queuing traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",381,190,2019,1,30,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,351,2019,1,30,19,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",252,177,2019,1,31,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",602,472,2019,1,31,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",376,257,2019,1,31,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Beato Miguel de Carvalho",287,264,2019,1,31,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",440,342,2019,1,31,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,128,2019,2,1,9,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",252,183,2019,2,1,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",306,199,2019,2,1,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,127,2019,2,1,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,822,2019,2,1,18,0,"Avenida Central",1,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",370,283,2019,2,1,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,142,2019,2,1,19,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",196,200,2019,2,2,12,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,247,2019,2,4,9,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",398,438,2019,2,4,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",216,164,2019,2,4,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,196,2019,2,4,18,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","Rua Nova de Santa Cruz","Avenida João Paulo II",147,124,2019,2,4,18,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",206,184,2019,2,4,19,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",420,201,2019,2,4,19,0,"Avenida Central",1,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Padre Júlio Fragata",440,190,2019,2,4,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,196,2019,2,4,19,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida João Paulo II",264,270,2019,2,5,9,0,"Avenida João Paulo II",0,0
+"stationary traffic","N101","Avenida Padre Júlio Fragata",205,135,2019,2,5,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,384,2019,2,5,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida João Paulo II","São Vítor",299,279,2019,2,5,9,0,"Avenida João Paulo II",0,0
+"stationary traffic","N101","Avenida Padre Júlio Fragata",205,127,2019,2,5,10,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,227,2019,2,5,10,0,"Avenida Central",0,0
+"stationary traffic","Avenida João Paulo II","Rua Doutor Elísio Moura",243,150,2019,2,5,10,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Rua de Dom Pedro V",264,202,2019,2,5,10,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida João Paulo II",264,135,2019,2,5,10,0,"Avenida João Paulo II",1,0
+"stationary traffic","Avenida Dom João II","Avenida Padre Júlio Fragata",205,126,2019,2,5,10,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",322,272,2019,2,5,14,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Dom João II",205,136,2019,2,5,14,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,152,2019,2,5,15,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,223,2019,2,5,16,0,"Avenida Central",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,286,2019,2,5,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",615,257,2019,2,5,18,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",404,268,2019,2,5,18,0,"Avenida Central",1,0
+"stationary traffic","N14","Avenida da Liberdade",205,156,2019,2,5,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,390,2019,2,5,18,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",370,290,2019,2,5,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",382,180,2019,2,5,19,0,"Avenida Central",1,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,182,2019,2,5,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,343,2019,2,5,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","N205-4 (N201)","Rua Costa Gomes",296,230,2019,2,5,19,0,"Rua Costa Gomes",0,0
+"queuing traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,142,2019,2,6,9,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",440,580,2019,2,6,9,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",252,141,2019,2,6,13,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",440,320,2019,2,6,18,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",304,211,2019,2,6,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Padre Júlio Fragata",440,169,2019,2,6,19,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",304,195,2019,2,6,20,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",339,297,2019,2,7,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,353,2019,2,7,17,0,"Avenida Central",0,0
+"stationary traffic","N205-4 (N201)","Rua Costa Gomes",296,154,2019,2,7,18,0,"Rua Costa Gomes",0,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,123,2019,2,7,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",440,315,2019,2,7,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,353,2019,2,7,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,163,2019,2,7,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",252,227,2019,2,7,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N103 (N101)",499,188,2019,2,7,19,0,"Avenida Central",1,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,211,2019,2,7,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",236,167,2019,2,7,19,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","Rua Professor Machado Vilela","Avenida da Liberdade",205,121,2019,2,8,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",422,365,2019,2,8,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,167,2019,2,8,15,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",252,138,2019,2,8,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",362,268,2019,2,8,17,0,"Avenida da Liberdade",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",304,199,2019,2,8,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",225,289,2019,2,8,18,0,"Avenida Central",1,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,201,2019,2,8,18,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",322,262,2019,2,8,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,768,2019,2,8,19,0,"Avenida Central",1,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Padre Júlio Fragata",415,161,2019,2,8,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,169,2019,2,8,20,0,"Avenida Padre Júlio Fragata",0,0
+"slow traffic","Avenida Central","Avenida General Norton De Matos (N101)",374,175,2019,2,9,12,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,258,2019,2,9,12,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,151,2019,2,11,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",498,787,2019,2,11,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",306,213,2019,2,11,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Beato Miguel de Carvalho",381,405,2019,2,11,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",440,294,2019,2,11,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",440,418,2019,2,11,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Beato Miguel de Carvalho",215,232,2019,2,11,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,593,2019,2,11,19,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,315,2019,2,11,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,222,2019,2,11,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",440,333,2019,2,12,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",306,294,2019,2,12,10,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,155,2019,2,12,10,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N101 (Rua De Santa Margarida)",440,125,2019,2,12,16,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",252,179,2019,2,12,18,0,"Avenida Central",0,0
+"stationary traffic","N205-4 (N201)","Rua Costa Gomes",296,128,2019,2,12,19,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",304,369,2019,2,12,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",440,212,2019,2,12,20,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",153,294,2019,2,13,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,214,2019,2,13,15,0,"Avenida Central",0,0
+"slow traffic","Avenida Central","Avenida General Norton De Matos (N101)",304,134,2019,2,13,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,177,2019,2,13,18,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",386,279,2019,2,13,18,0,"Avenida Central",0,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,162,2019,2,13,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,187,2019,2,13,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Padre Júlio Fragata",440,160,2019,2,13,18,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",440,291,2019,2,13,19,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",196,191,2019,2,13,19,0,"Avenida Central",0,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,151,2019,2,14,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,318,2019,2,14,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Padre Júlio Fragata",440,444,2019,2,14,9,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",370,239,2019,2,14,10,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",291,233,2019,2,14,14,0,"Rua Nova de Santa Cruz",0,0
+"slow traffic","Avenida Central","Avenida General Norton De Matos (N101)",322,149,2019,2,14,17,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",386,296,2019,2,14,18,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N103 (N101)",349,128,2019,2,14,18,0,"Avenida Central",1,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",342,527,2019,2,14,18,0,"Avenida Central",1,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",216,186,2019,2,14,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Padre Júlio Fragata",440,167,2019,2,14,18,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",440,297,2019,2,14,18,0,"Avenida Padre Júlio Fragata",0,1
+"queuing traffic","Avenida António Macedo","Avenida da Liberdade",709,134,2019,2,14,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N103 (N101)",644,362,2019,2,14,19,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",386,292,2019,2,14,19,0,"Avenida Central",1,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,258,2019,2,14,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Padre Júlio Fragata",440,207,2019,2,14,19,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",440,490,2019,2,14,20,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",602,231,2019,2,15,9,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",218,161,2019,2,15,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",228,178,2019,2,15,14,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",506,157,2019,2,15,16,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",329,366,2019,2,15,16,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,271,2019,2,15,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",322,187,2019,2,15,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",440,304,2019,2,15,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","N205-4 (N201)","Rua Costa Gomes",296,133,2019,2,15,18,0,"Rua Costa Gomes",0,0
+"stationary traffic","Rua Nova de Santa Cruz","Avenida João Paulo II",381,199,2019,2,15,19,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",339,255,2019,2,16,12,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",264,167,2019,2,16,13,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,408,2019,2,18,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Rua de Dom Pedro V",264,298,2019,2,18,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",254,180,2019,2,18,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",398,249,2019,2,18,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida da Liberdade","Largo da Senhora-a-Branca / Rua de São Victor",498,629,2019,2,18,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,245,2019,2,18,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,141,2019,2,18,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","N205-4 (N201)","Rua Costa Gomes",296,128,2019,2,19,9,0,"Rua Costa Gomes",0,0
+"queuing traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,129,2019,2,19,9,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",398,367,2019,2,19,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",498,436,2019,2,19,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,285,2019,2,19,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",252,221,2019,2,19,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Rua Do Raio Penha (N101)",458,153,2019,2,19,18,0,"Avenida Central",1,0
+"queuing traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",362,187,2019,2,19,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,357,2019,2,19,18,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",398,304,2019,2,19,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","N205-4 (N201)","Rua Costa Gomes",296,315,2019,2,19,19,0,"Rua Costa Gomes",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",480,427,2019,2,19,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",440,281,2019,2,19,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","N101","Avenida Padre Júlio Fragata",205,128,2019,2,19,20,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",251,249,2019,2,19,20,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",453,534,2019,2,20,9,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,208,2019,2,20,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",334,169,2019,2,20,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",440,508,2019,2,20,9,0,"Rua Nova de Santa Cruz",0,0
+"slow traffic","N101 (Rua De Santa Margarida)","Avenida Central",506,147,2019,2,20,17,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N101 (Rua De Santa Margarida)",615,155,2019,2,20,18,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,235,2019,2,20,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",440,320,2019,2,20,19,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",264,278,2019,2,20,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",219,148,2019,2,20,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",376,320,2019,2,21,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",333,206,2019,2,21,9,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",331,127,2019,2,21,10,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",262,132,2019,2,21,10,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",246,145,2019,2,21,14,0,"Rua Nova de Santa Cruz",0,0
+"queuing traffic","N101 (Rua De Santa Margarida)","Avenida Central",493,166,2019,2,21,17,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","N101 (Rua De Santa Margarida)",608,183,2019,2,21,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",338,578,2019,2,21,18,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",282,231,2019,2,21,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",486,385,2019,2,21,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",338,263,2019,2,22,9,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",368,418,2019,2,22,9,0,"Rua Nova de Santa Cruz",0,0
+"slow traffic","Avenida Central","Avenida General Norton De Matos (N101)",394,165,2019,2,22,17,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",338,162,2019,2,22,17,0,"Avenida Central",1,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",318,211,2019,2,22,17,0,"Avenida Padre Júlio Fragata",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",394,254,2019,2,22,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Padre Júlio Fragata",429,174,2019,2,22,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",246,130,2019,2,22,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",486,451,2019,2,22,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",608,219,2019,2,22,19,0,"Avenida Central",1,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",269,229,2019,2,22,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",357,228,2019,2,22,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Padre Júlio Fragata",429,143,2019,2,22,19,0,"Avenida Padre Júlio Fragata",0,1
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",253,120,2019,2,23,12,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",258,145,2019,2,25,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",447,473,2019,2,25,9,0,"Avenida Central",1,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",332,231,2019,2,25,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",269,193,2019,2,25,14,0,"Avenida Central",0,0
+"queuing traffic","Avenida da Liberdade","Avenida 31 de Janeiro / Rua Beato Miguel de Carvalho",497,189,2019,2,25,17,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N103 (N101)",586,244,2019,2,25,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",608,449,2019,2,25,18,0,"Avenida Central",1,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",282,221,2019,2,25,18,0,"Avenida Central",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",383,157,2019,2,25,18,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",239,175,2019,2,25,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",419,243,2019,2,25,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",239,134,2019,2,25,20,0,"Avenida Central",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",308,170,2019,2,26,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",338,292,2019,2,26,9,0,"Avenida Central",1,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida João Paulo II",262,141,2019,2,26,9,0,"Avenida João Paulo II",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",318,125,2019,2,26,9,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",326,283,2019,2,26,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",282,165,2019,2,26,14,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",318,167,2019,2,26,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",447,203,2019,2,26,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",321,311,2019,2,26,19,0,"Avenida Central",1,0
+"queuing traffic","Avenida Central","N101 (Rua De Santa Margarida)",608,147,2019,2,27,9,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",447,245,2019,2,27,13,0,"Avenida Central",0,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",282,173,2019,2,27,15,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",447,273,2019,2,27,18,0,"Avenida Central",0,0
+"stationary traffic","São Vítor","Avenida Padre Júlio Fragata",195,189,2019,2,27,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",419,309,2019,2,27,18,0,"Avenida Padre Júlio Fragata",0,1
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",394,251,2019,2,27,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",447,224,2019,2,27,19,0,"Avenida Central",1,0
+"stationary traffic","Rua De Camoes (Rua De Santa Margarida)","Avenida Central",282,190,2019,2,27,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Padre Júlio Fragata",429,198,2019,2,27,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",419,303,2019,2,27,19,0,"Avenida Padre Júlio Fragata",0,1
+"stationary traffic","M564 (N205-4)","Rua Costa Gomes",488,161,2019,2,27,19,0,"Rua Costa Gomes",0,0
+"queuing traffic","Avenida Central","Avenida General Norton De Matos (N101)",322,228,2019,2,28,9,0,"Avenida Central",0,0
+"queuing traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",348,156,2019,2,28,9,0,"Avenida da Liberdade",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",352,349,2019,2,28,9,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","EM590 (N103)","Rua Nova de Santa Cruz",422,210,2019,2,28,14,0,"Rua Nova de Santa Cruz",0,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",274,204,2019,2,28,18,0,"Avenida da Liberdade",0,0
+"stationary traffic","N101 (Rua De Santa Margarida)","Avenida Central",629,381,2019,2,28,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",338,395,2019,2,28,18,0,"Avenida Central",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Padre Júlio Fragata",429,175,2019,2,28,18,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","M564 (N205-4)","Rua Costa Gomes",407,214,2019,2,28,19,0,"Rua Costa Gomes",0,0
+"stationary traffic","N205-4 (N201)","Rua Costa Gomes",568,269,2019,2,28,19,0,"Rua Costa Gomes",0,1
+"stationary traffic","Avenida Central","N103 (N101)",618,225,2019,2,28,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Central","Avenida General Norton De Matos (N101)",486,470,2019,2,28,19,0,"Avenida Central",1,0
+"stationary traffic","Avenida 31 de Janeiro / Largo da Senhora-a-Branca","Avenida da Liberdade",348,253,2019,2,28,19,0,"Avenida da Liberdade",0,0
+"stationary traffic","Avenida Central","N101 (Rua De Santa Margarida)",608,381,2019,2,28,19,0,"Avenida Central",0,0
+"stationary traffic","Avenida Clemont Ferrand","Avenida Padre Júlio Fragata",357,237,2019,2,28,19,0,"Avenida Padre Júlio Fragata",0,0
+"stationary traffic","Avenida Padre Júlio Fragata","Avenida Padre Júlio Fragata",429,197,2019,2,28,19,0,"Avenida Padre Júlio Fragata",0,1

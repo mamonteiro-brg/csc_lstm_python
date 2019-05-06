@@ -5,28 +5,17 @@ from keras.models import Sequential, model_from_json
 from keras.layers.core import Dense, Dropout, Activation
 from keras.layers.recurrent import LSTM
 import json
-import os.path
 import sys
-import collections
-import csv
+
 
 seed = 9
 np.random.seed(seed)
 
-def save_hiper_to_json(validation_split, epochs, batch_size,verbose,filename):
-    dic = {'epochs':epochs,'batch_size': batch_size,'verbose': verbose, 'validation_split': validation_split}
-    with open(filename,'w') as outfile:
-        json.dump(dic,outfile)
 
 def load_hiper(filename):
     with open(filename) as json_file:
         data = json.load(json_file)
     return data
-
-def save_model_json(model,fich):
-    model_json = model.to_json()
-    with open(fich,"w") as json_file:
-        json_file.write(model_json)
 
 def load_model_json(fich):
     json_file = open(fich,'r')
@@ -34,10 +23,6 @@ def load_model_json(fich):
     json_file.close()
     loaded_model = model_from_json(loaded_model_json)
     return loaded_model
-
-def save_weights_hdf5(model,fich):
-    model.save_weights(fich)
-    print("Save model to disk")
 
 def load_weights_hdf5(model,fich):
     model.load_weights(fich)
@@ -49,18 +34,6 @@ def compile_model(model):
     model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
     return model
 
-# Funcao para construcao do modelo
-
-def build_model(janela):
-    model = Sequential()
-    model.add(LSTM(128,input_shape=(janela,3), return_sequences=True))
-    model.add(Dropout(0.2))
-    model.add(LSTM(64,input_shape=(janela,3),  return_sequences=True))
-    model.add(Dense(16,activation="relu", kernel_initializer="uniform"))
-    model.add(Dense(8, activation="relu", kernel_initializer="uniform"))
-    model.add(Dense(1, activation="linear", kernel_initializer="uniform"))
-    model.compile(loss='mse',optimizer='adam',metrics=['accuracy'])
-    return model
 
 #fase de teste
 
