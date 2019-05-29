@@ -1,0 +1,1 @@
+{"epochs": 1500, "batch_size": 1, "verbose": 1, "validation_split": 0.1}

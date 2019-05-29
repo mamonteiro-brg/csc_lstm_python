@@ -22,7 +22,7 @@ def process():
     print(option1)
     print(option2)
     print(option3)
-    #subprocess.call('python LSTM_model.py ' + option3 + ' ' + option1 + ' ' + option2)
+    subprocess.call('python LSTM_model.py ' + option3 + ' ' + option1 + ' ' + option2)
     if(option2 == "S._Vitor" and option3 == "curto"):
         print("Entrei")
         option2 = "svitor"

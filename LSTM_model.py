@@ -1,9 +1,7 @@
 import numpy as np
 import pandas as pd
-import math,time
-from keras.models import Sequential, model_from_json
-from keras.layers.core import Dense, Dropout, Activation
-from keras.layers.recurrent import LSTM
+import math
+from keras.models import model_from_json
 import json
 import sys
 
@@ -144,6 +142,11 @@ def evaluate_test(second,third,model,X_test,y_test,toMultiply):
     p = model.predict(X_test)
     predic = np.squeeze(np.array(p))
     np.savetxt('prediction' + second + third + '.csv', np.transpose((y_test * toMultiply,predic * toMultiply)), delimiter=',',fmt="%s")
+    with open('prediction' + second + third + '.csv', 'r+') as temp:
+        content = temp.read()
+        temp.seek(0,0)
+        temp.write('Atual,Previsao\n')
+        temp.write(content)
 
 def LSTM_start(first,second,third):
     df , toMultiply = load_dataset(second)
@@ -177,6 +180,7 @@ def main():
     if(name == "S._Vitor"):
         name = "svitor"
     print(name)
+
     LSTM_start(freg_or_stree,name,long_or_short)
 
 if __name__  == "__main__":
