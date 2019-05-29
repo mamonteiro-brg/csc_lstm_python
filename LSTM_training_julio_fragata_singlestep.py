@@ -32,6 +32,7 @@ def save_weights_hdf5(model,fich):
     model.save_weights(fich)
     print("Save model to disk")
 
+
 # Read CSV and data normalization is done in this function
 def get_dataset(dataset_name,normalized = 0, file_name = None):
     print(file_name)
@@ -57,16 +58,25 @@ def get_dataset(dataset_name,normalized = 0, file_name = None):
     print(df)
     print("-------------")
 
+
+
     values = df.values.reshape((len(df.values),17))
 
     print(values.shape)
 
-    scaler = MinMaxScaler(feature_range=(0,1))
+    scaler_diff_ranker = MinMaxScaler(feature_range=(-1,1))
+
+    diff_ranker_data = np.array(df['diif_ranker'].values).reshape(len(df['diif_ranker'].values),1)
+    sdr = scaler_diff_ranker.fit_transform(diff_ranker_data)
+    ranker_shape = diff_ranker_data.shape
+    print(ranker_shape)
+
+    scaler = MinMaxScaler(feature_range=(-1,1))
     normal = scaler.fit_transform(values)
     print(normal)
 
 
-    return (normal,scaler)
+    return (normal,scaler, scaler_diff_ranker)
 
 def load_dataset(arg):
     dataset_name = arg
@@ -88,7 +98,7 @@ def build_model(janela):
     model.add(Dropout(0.2))
 
 
-    model.add(Dense(1,activation='sigmoid',kernel_initializer="uniform"))
+    model.add(Dense(1,activation='linear',kernel_initializer="uniform"))
 
     #adam = optimizers.adam(lr=0.0001)
     model.compile(loss = 'mse',optimizer= 'adam' ,metrics= ['accuracy'])
@@ -125,6 +135,15 @@ def load_data(df_dados,janela):
 def print_series_prediction(y_test,predic,scaler):
     diff = []
     racio = []
+
+    predic = np.array(predic).reshape(len(predic), 1)
+
+    predic = scaler.inverse_transform(predic)
+
+    y_test = np.array(y_test).reshape(len(y_test), 1)
+
+    y_test = scaler.inverse_transform(y_test)
+
     for i in range(len(y_test)):
         racio.append((y_test[i]/predic[i])-1)
         diff.append(abs(y_test[i]-predic[i]))
@@ -170,7 +189,7 @@ def evaluate_test(arg, model,X_test,y_test,toMultiply):
     print_series_prediction(y_test, predic,toMultiply)
 
 def LSTM_start(arg):
-    df, toMultiply = load_dataset(arg)
+    df, toMultiply, scaler_ranker = load_dataset(arg)
     janela = 24
     print("Dataset Total", df.shape)
     X_train, y_train, X_test, y_test = load_data(df,janela)
@@ -182,7 +201,7 @@ def LSTM_start(arg):
 
     # Train a new classifier using the best parameters found by the grid search
     model = build_model(janela)
-    history = model.fit(X_train,y_train,batch_size=24,epochs=10,validation_split = 0.1,verbose= 1)
+    history = model.fit(X_train,y_train,batch_size=24,epochs=1,validation_split = 0.1,verbose= 1)
 
     save_model_json(model, arg + "_model.json")
     save_weights_hdf5(model, arg + "_model_weights.h5")
@@ -191,12 +210,12 @@ def LSTM_start(arg):
     print_history_loss(history)
     trainScore = model.evaluate(X_train, y_train, verbose= 0)
     print('Train Score: %.2f MSE (%.2f RMSE)' % (trainScore[0],math.sqrt(trainScore[0])))
-    evaluate_test(arg, model,X_test,y_test,toMultiply)
+    evaluate_test(arg, model,X_test,y_test,scaler_ranker)
 
 def main():
-    arg = sys.argv[1]
-    print(arg)
-    LSTM_start(arg)
+    #arg = sys.argv[1]
+    #print(arg)
+    LSTM_start('padre_juilo_fragata')
     #f.close()
 
 
