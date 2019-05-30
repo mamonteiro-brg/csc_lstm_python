@@ -52,7 +52,7 @@ def get_dataset(dataset_name,normalized = 0, file_name = None):
     # minutos -4
     # dia da semana - 5
 
-    df.drop(df.columns[[0,1,2,3,4,5]], axis = 1, inplace= True)
+    #df.drop(df.columns[[0,1,2,3,4,5]], axis = 1, inplace= True)
 
     print("DF")
     print(df)
@@ -60,7 +60,7 @@ def get_dataset(dataset_name,normalized = 0, file_name = None):
 
 
 
-    values = df.values.reshape((len(df.values),17))
+    values = df.values.reshape((len(df.values),23))
 
     print(values.shape)
 
@@ -91,13 +91,16 @@ def build_model(janela):
 
     model = Sequential()
 
-    model.add(LSTM(128,input_shape=(janela,17), return_sequences=True))
+    model.add(LSTM(128,input_shape=(janela,23), return_sequences=True))
     model.add(Dropout(0.2))
 
-    model.add(LSTM(64,input_shape=(janela,17), return_sequences=False))
+    model.add(LSTM(64,input_shape=(janela,23), return_sequences=True))
     model.add(Dropout(0.2))
 
+    model.add(LSTM(32,input_shape=(janela,23),return_sequences=False))
 
+
+    model.add(Dense(8,activation='relu',kernel_initializer="uniform"))
     model.add(Dense(1,activation='linear',kernel_initializer="uniform"))
 
     #adam = optimizers.adam(lr=0.0001)
@@ -128,8 +131,8 @@ def load_data(df_dados,janela):
 
     x_test = res[qt_casos_treino:, :]
     y_test = res[qt_casos_treino:, -1][:, -1]
-    x_train = np.reshape(x_train, (x_train.shape[0], x_train.shape[1], 17))
-    x_test = np.reshape(x_test, (x_test.shape[0], x_test.shape[1], 17))
+    x_train = np.reshape(x_train, (x_train.shape[0], x_train.shape[1], 23))
+    x_test = np.reshape(x_test, (x_test.shape[0], x_test.shape[1], 23))
     return [x_train, y_train, x_test, y_test]
 
 def print_series_prediction(y_test,predic,scaler):
@@ -201,11 +204,11 @@ def LSTM_start(arg):
 
     # Train a new classifier using the best parameters found by the grid search
     model = build_model(janela)
-    history = model.fit(X_train,y_train,batch_size=24,epochs=1,validation_split = 0.1,verbose= 1)
+    history = model.fit(X_train,y_train,batch_size=168,epochs=200,validation_split = 0.1,verbose= 1)
 
-    save_model_json(model, arg + "_model.json")
-    save_weights_hdf5(model, arg + "_model_weights.h5")
-    save_hiper_to_json(0.1,1500,1,1,arg + "_hiperparametros.json")
+    save_model_json(model, arg + "curto" + "_model.json")
+    save_weights_hdf5(model, arg + "curto" + "_model_weights.h5")
+    save_hiper_to_json(0.1,1500,1,1,arg + "curto" + "_hiperparametros.json")
     #print_model(model,"lstm_model.png")
     print_history_loss(history)
     trainScore = model.evaluate(X_train, y_train, verbose= 0)
@@ -215,7 +218,7 @@ def LSTM_start(arg):
 def main():
     #arg = sys.argv[1]
     #print(arg)
-    LSTM_start('padre_juilo_fragata')
+    LSTM_start('padre_julio_fragata')
     #f.close()
 
 

@@ -22,12 +22,17 @@ def process():
     print(option1)
     print(option2)
     print(option3)
+
+    if(option2 == "Avenida_Padre_Julio_Fragata"):
+        option2 = "padre_julio_fragata"
     subprocess.call('python LSTM_model.py ' + option3 + ' ' + option1 + ' ' + option2)
     if(option2 == "S._Vitor" and option3 == "curto"):
         print("Entrei")
         option2 = "svitor"
+    if(option2 == "S._Vitor" and option3 == "longo"):
+        option2 = "svitor"
 
-    csvp  = "prediction" + option2 + option3 + ".csv"
+    csvp  = "prediction" + option2 + "curto" + ".csv"
 
     data = pd.read_csv(csvp)
 
